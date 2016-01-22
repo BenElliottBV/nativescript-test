@@ -1,0 +1,5 @@
+<StackLayout>
+   <Label text="item1" />
+   <Label text="item2" />
+   <Label text="item3" />
+</StackLayout>
