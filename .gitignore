@@ -1,0 +1,7 @@
+*/bin
+*/obj
+*.user-settings.xml
+**.suo
+**/node_modules/**
+**/platforms/**
+**/lib/ios/**
