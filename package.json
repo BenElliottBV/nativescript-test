@@ -1,0 +1,11 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.test",
+		"tns-ios": {
+			"version": "1.5.2"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "1.5.1"
+	}
+}
